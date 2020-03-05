@@ -1,0 +1,203 @@
+ {
+     "Result":
+     {
+         "MessageNumber": 0,
+         "Elements": [
+         {
+             "SetClientProductId": "ab51fa9a-44dd-ea11-b823-00155d282c6c",
+             "SetProductId": "63bde393-ca0a-ea11-b81c-00155d283c34",
+             "SetProductName": "Т:ІНД Мій бізнес + Валюта",
+             "SetQuantityAvailable": 703,
+             "FirstCorpCard": true,
+             "Completeness": true,
+             "Products": [
+             {
+                 "ProductId": "ceb83580-0a02-ea11-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 2,
+                 "ProductName": "ПР: в іноземній валюті",
+                 "CorpProductType": 528740003
+             },
+             {
+                 "ProductId": "91296cf3-0802-ea11-b81d-00155d283c32",
+                 "QuantityConcluded": 1,
+                 "QuantityAvailable": 0,
+                 "ProductName": "ПР: в національній валюті",
+                 "CorpProductType": 528740003
+             },
+             {
+                 "ProductId": "5c7511ca-3c8c-e911-b81b-00155d201f07",
+                 "QuantityConcluded": 1,
+                 "QuantityAvailable": 0,
+                 "ProductName": "Corp Light",
+                 "CorpProductType": 528740009
+             },
+             {
+                 "ProductId": "447511ca-3c8c-e911-b81b-00155d201f07",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 1,
+                 "ProductName": "ПР: Стандарт для обліку цільових коштів нац.вал",
+                 "CorpProductType": 528740003
+             },
+             {
+                 "ProductId": "a644a37c-8cfc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 100,
+                 "ProductName": "Visa Gold PayWave Pectoral",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "87c07f95-8cfc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 100,
+                 "ProductName": "MasterCard Corporate PayPass",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "6dc9863f-93fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 101,
+                 "ProductName": "Visa Business Credit Contact",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "3e3d2754-93fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 1,
+                 "QuantityAvailable": 100,
+                 "ProductName": "MasterCard Corporate PayPass",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "cb6b14ac-a5fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 99,
+                 "ProductName": "Visa Gold PayWave Pectoral",
+                 "CorpProductType": 528740002
+             }]
+         },
+         {
+             "SetClientProductId": "ab51fa9a-44dd-ea11-b823-00155d282c7c",
+             "SetProductId": "63bde393-ca0a-ea11-b81c-00155d283c34",
+             "SetProductName": "Т:ІНД Мій бізнес + Валюта 2",
+             "SetQuantityAvailable": 0,
+             "FirstCorpCard": false,
+             "Completeness": true,
+             "Products": [
+             {
+                 "ProductId": "ceb83580-0a02-ea11-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 2,
+                 "ProductName": "ПР: в іноземній валюті",
+                 "CorpProductType": 528740003
+             },
+             {
+                 "ProductId": "91296cf3-0802-ea11-b81d-00155d283c32",
+                 "QuantityConcluded": 1,
+                 "QuantityAvailable": 0,
+                 "ProductName": "ПР: в національній валюті",
+                 "CorpProductType": 528740003
+             },
+             {
+                 "ProductId": "5c7511ca-3c8c-e911-b81b-00155d201f07",
+                 "QuantityConcluded": 1,
+                 "QuantityAvailable": 0,
+                 "ProductName": "Corp Light",
+                 "CorpProductType": 528740009
+             },
+             {
+                 "ProductId": "447511ca-3c8c-e911-b81b-00155d201f07",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 1,
+                 "ProductName": "ПР: Стандарт для обліку цільових коштів нац.вал",
+                 "CorpProductType": 528740003
+             },
+             {
+                 "ProductId": "a644a37c-8cfc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 100,
+                 "ProductName": "Visa Gold PayWave Pectoral",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "87c07f95-8cfc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 100,
+                 "ProductName": "MasterCard Corporate PayPass",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "6dc9863f-93fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 101,
+                 "ProductName": "Visa Business Credit Contact",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "bdea9266-93fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 101,
+                 "ProductName": "Visa Gold PayWave Pectoral",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "2ff7f5f0-a5fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 99,
+                 "ProductName": "MasterCard Corporate PayPass",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "3e3d2754-93fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 1,
+                 "QuantityAvailable": 100,
+                 "ProductName": "MasterCard Corporate PayPass",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "cb6b14ac-a5fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 99,
+                 "ProductName": "Visa Gold PayWave Pectoral",
+                 "CorpProductType": 528740002
+             }]
+         },
+         {
+             "SetClientProductId": "ab51fa9a-44dd-ea11-b823-00154d282c8c",
+             "SetProductId": "63bde393-ca0a-ea11-b81c-04155d283c34",
+             "SetQuantityAvailable": 0,
+             "Completeness": false,
+             "SetProductName": "Т:ІНД Мій бізнес + Валюта 3",
+             "Products": []
+         },
+         {
+             "SetClientProductId": "ab51fa9a-44dd-ea11-b823-00155d282c8c",
+             "SetProductId": "63bde393-ca0a-ea11-b81c-00155d283c34",
+             "SetQuantityAvailable": 0,
+             "Completeness": false,
+             "Products": []
+         },
+         {
+             "SetClientProductId": "ab51fa9a-44dd-ea11-b823-00155d282c7c",
+             "SetProductId": "63bde393-cd0a-ea11-b81c-00155d283c34",
+             "SetProductName": "Т:ІНД Мій бізнес + Валюта 4",
+             "SetQuantityAvailable": 0,
+             "FirstCorpCard": false,
+             "Completeness": true,
+             "Products": [
+             {
+                 "ProductId": "bdea9266-93fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 101,
+                 "ProductName": "Visa Gold PayWave Pectoral",
+                 "CorpProductType": 528740002
+             },
+             {
+                 "ProductId": "2ff7f5f0-a5fc-e911-b81c-00155d283c34",
+                 "QuantityConcluded": 0,
+                 "QuantityAvailable": 99,
+                 "ProductName": "MasterCard Corporate PayPass",
+                 "CorpProductType": 528740002
+             }]
+         }]
+     }
+ }
